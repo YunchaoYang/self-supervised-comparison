@@ -11,7 +11,7 @@ Table of Contents
 - Training
 - Evaluation
 - Results
-- License
+
 
 ## Introduction
 Self-supervised learning is an emerging area in deep learning where models are trained without the need for labeled data. Instead, models are trained using pretext tasks that involve generating labels from the input data. In this repository, we explore and compare several popular self-supervised learning methods to understand their strengths and weaknesses.
